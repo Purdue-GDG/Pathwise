@@ -165,3 +165,19 @@ a.secondary {
     filter: invert();
   }
 }
+
+.formContainer {
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+.inputField {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  color-scheme: light;
+}
+
+.submitButton {
+  margin-bottom: 10px;
+}
